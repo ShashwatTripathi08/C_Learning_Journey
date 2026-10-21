@@ -29,3 +29,4 @@ int main(){
 
     return 0;
 }
+// If the value of 'a' matches with any of the case, it will execute that line of code and will not continue the flow because break command is given
